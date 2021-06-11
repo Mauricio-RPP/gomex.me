@@ -197,7 +197,7 @@ Lembre-se, esse é um texto em construção constante e feito através de colabo
 
 ### Agradecimentos
 
-A todos do canal [DevOpsBR no Telegram](https://t.me/devopsbr) que colaboram em enriquecer o texto.
+A todos do canal [Novo-DevOps-BR no Telegram](https://t.me/novodevopsbr) que colaboram em enriquecer o texto.
 
 ### Fontes
 
